@@ -1,0 +1,22 @@
+{
+  "visuals": [
+    {
+      "filename": "background.mp4",
+      "enabled": true
+    }
+  ],
+  "music": [
+    {
+      "filename": "Deux_Arabesques__L66_No__1_Andantino_con_moto.m4a",
+      "enabled": true
+    },
+    {
+      "filename": "My_Little_Edinburgh.m4a",
+      "enabled": true
+    },
+    {
+      "filename": "New_Light.m4a",
+      "enabled": true
+    }
+  ]
+}
